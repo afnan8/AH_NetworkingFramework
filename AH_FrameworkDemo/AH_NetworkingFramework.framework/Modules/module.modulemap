@@ -1,0 +1,6 @@
+framework module AH_NetworkingFramework {
+  umbrella header "AH_NetworkingFramework.h"
+
+  export *
+  module * { export * }
+}
